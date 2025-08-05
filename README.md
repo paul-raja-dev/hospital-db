@@ -32,3 +32,5 @@ This project is a simple hospital database system created using SQL. It includes
 **Paul Raja**  
 GitHub: [@paul-raja-dev](https://github.com/paul-raja-dev)
 
+**creating this to study about branching**
+
